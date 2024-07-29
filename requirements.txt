@@ -1,0 +1,5 @@
+os
+pdfplumber
+PyPDF2
+ipywidgets
+collections
