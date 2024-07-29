@@ -1,0 +1,9 @@
+name: bill_split_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pdfplumber
+  - PyPDF2
+  - os
+  - ipywidgets
